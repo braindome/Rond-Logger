@@ -1,0 +1,26 @@
+An app to log the time when patrolling an item in a list. Log is saved on client side.
+
+
+JS
+
+clickMe.addEventListener function () {
+
+    let date = date function;
+    let currentTime = .toLocaleTimeString;
+    loggedTime.innerHTML = local time at the moment of the click;
+    
+}
+
+HTML
+
+<table>
+Columns: 
+    Östra: 6 - number of total laps + name columns
+    Sahlgrenska: 6 - number of total laps + name columns
+    
+Rows: 
+    Östra: 8 - list of total place to visits + name rows
+    Sahlgrenska: 10 - list of total place to visits + name rows
+
+Every element in the table has one <button> and a <p>. Time is logged in <p>.
+</table>
